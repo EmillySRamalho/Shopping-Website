@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo {
+    width: 23.5px;
+    height: 21.7px;
+}
+
+
+.fs {
+    color: #000;
+
+    font-family: Poppins;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    letter-spacing: 0.9px;
+}
+
+.superior {
+    display: inline-flex;
+    align-items: flex-end;
+    gap: 480px;
+    padding: 20px;
+
+}
+
+.nomes {
+    display: flex;
+    align-items: flex-start;
+    gap: 48.75px;
+
+}
+
+.names {
+    width: 101.25px;
+    height: 27px;
+
+    color: #242323;
+    font-family: Poppins;
+    font-size: 16.5px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.165px;
+}
+
+
+.button1 {
+
+    width: 100.5px;
+    height: 46.5px;
+    flex-shrink: 0;
+    border-radius: 5.25px;
+    background: #000;
+
+
+    color: #FEFEFE;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.54px;
+}
+
+.retangulo {
+    width: 1290px;
+    height: 638.369px;
+    flex-shrink: 0;
+    border-radius: 39.474px;
+    background: #F4F6F5;
+}
+
+
+.title {
+    width: 355.5px;
+    height: 354.4px;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Poppins;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 90px;
+
+}
+
+.subtitle {
+    width: 454.5px;
+    height: 43.457px;
+    flex-shrink: 0;
+    color: #191818;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -1.2px;
+}
+
+
+.button2 {
+    width: 165.75px;
+    height: 61.5px;
+    flex-shrink: 0;
+    border-radius: 7.5px;
+    background: #000;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 22.5px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -1.125px;
+}
+
+
+.img1 {
+    width: 648px;
+    height: 568px;
+    flex-shrink: 0;
+
+}
+
+.destaque1 {
+    width: 348.557px;
+    height: 84.022px;
+    transform: rotate(-2.002deg);
+    flex-shrink: 0;
+    background: #FFF;
+
+
+}
+
+.destaque2 {
+    width: 371.839px;
+    height: 88.076px;
+    transform: rotate(-2.002deg);
+    flex-shrink: 0;
+    background: #EBD96B;
+}
+
+.estrela {
+    width: 40.356px;
+    height: 38.98px;
+    flex-shrink: 0;
+    fill: #E7E6E6;
+    backdrop-filter: blur(19.042591094970703px);
+}
+
+.amarelo {
+    width: 1440px;
+    height: 140px;
+    flex-shrink: 0;
+    background: #EBD96B;
+}
