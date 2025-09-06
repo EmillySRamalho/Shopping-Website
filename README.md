@@ -16,4 +16,8 @@ O objetivo é praticar habilidades de desenvolvimento front-end, replicando com 
 
 ## 🚀 Tecnologias Utilizadas
 - **HTML5** → Estruturação do conteúdo  
-- **CSS3** → Estilização e layout  
+- **CSS3** → Estilização e layout
+
+- ✅ Status do Projeto
+
+🔄 Em andamento – novas melhorias serão adicionadas em breve.
